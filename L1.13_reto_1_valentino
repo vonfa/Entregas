@@ -1,4 +1,4 @@
-//ejercicio guia del video L1.13 https://www.youtube.com/watch?v=GzZHz5VUDEE&list=PL64O0POFYjHoW3-FDElau5TfKyoRO13Jf&index=13
+//ejercicio reto 1 guia del video L1.13 https://www.youtube.com/watch?v=GzZHz5VUDEE&list=PL64O0POFYjHoW3-FDElau5TfKyoRO13Jf&index=13
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h> // necesario para atof
